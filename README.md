@@ -22,6 +22,8 @@ Install dependencies and configure MongoDB connection in db.js and server.js:
 bash
 Copy code
 npm install
+<br>
+
 Populate the database and start the server:
 
 bash
