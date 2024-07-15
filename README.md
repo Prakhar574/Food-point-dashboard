@@ -31,6 +31,8 @@ Copy code
 node db.js
 npm start
 Frontend
+<br>
+
 Navigate to the client directory, install dependencies, and start the React app:
 
 bash
@@ -38,14 +40,23 @@ Copy code
 cd client
 npm install
 npm start
+<br>
+
 🛠️ Usage
 Ensure the backend runs on port 5000 and the frontend on port 5173.
 Open http://localhost:5173/ in your browser to access the dashboard.
+
+<br>
+
 📡 API Endpoints
 GET /api/dishes - Fetch all dishes
 POST /api/dishes/:id/toggle - Toggle the publish status of a dish
+<br>
+
 🧰 Technologies Used
 Backend: Node.js, Express, MongoDB, Mongoose
 Frontend: React, Axios
+<br>
+
 🎉 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
